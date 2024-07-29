@@ -1,5 +1,5 @@
 {
   "code": 244,
-  "name": "0728",
+  "name": "0729",
   "desc": "* [共通]\n* 更新 dlna\n* 更新 media3\n* 更新 nanohttpd\n* 還原 aes res base64 處理\n* 支持跑路道長配置的相對路徑"
 }
